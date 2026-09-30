@@ -1,0 +1,17 @@
+{
+  "projectTitle": "데이터 기반 채용 전문가 과정",
+  "lectures": [
+    { "step": 1, "title": "특징 정의", "desc": "성과 방정식 및 AI 윤리 가이드", "tool": "NotebookLM" },
+    { "step": 2, "title": "인력 지도", "desc": "고성과자 역량 모델링 및 SWP 실습", "tool": "Excel" },
+    { "step": 3, "title": "인재 발굴", "desc": "Web DB 기반 핵심 인력 매핑", "tool": "Web DB" },
+    { "step": 4, "title": "시스템 개발", "desc": "Cursor 활용 AI 채용 프로토타입", "tool": "Cursor (AI)" },
+    { "step": 5, "title": "도구 배포", "desc": "GAS 연동 실무 보조 도구 완성", "tool": "GAS" },
+    { "step": 6, "title": "실력 검증", "desc": "전문 용어 밀도 및 통계 기반 분석", "tool": "Jamovi" },
+    { "step": 7, "title": "워크플로우", "desc": "대시보드 및 면접 질문 자동화", "tool": "GAS" }
+  ],
+  "colors": {
+    "background": "#E9E5DB",
+    "text": "#1B2566",
+    "accent": "#F1EE2E"
+  }
+}
